@@ -1,0 +1,14 @@
+.item2 {
+  /* background-color: green; */
+  display: flex;
+  justify-content: center;
+  /* padding: 20px; */
+  /* border: 2px solid red; */
+
+}
+
+.form {
+  width: 50%;
+  background-color: lightcyan;
+  padding: 20px;
+}
